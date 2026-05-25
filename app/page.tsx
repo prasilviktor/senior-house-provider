@@ -6,7 +6,7 @@ export default function Home() {
     <main style={{ padding: '60px 24px', maxWidth: 960, margin: '0 auto' }}>
       {/* Toggle via ?lang=cs in URL or swap components as needed */}
       {/* English version — uncomment to use */}
-      {/* <ProviderSection /> */}
+      {/* <ProviderSectionCS /> */}
 
       <ProviderSectionCS />
     </main>
